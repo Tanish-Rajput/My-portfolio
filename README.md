@@ -1,30 +1,42 @@
-# Archive
+#Tanish Raghav – Portfolio Website
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+This is my personal portfolio website showcasing my work, skills, projects, and experience as an AI/ML and full-stack developer. The portfolio reflects my journey as a second-year B.Tech student specializing in Artificial Intelligence & Machine Learning at IILM University Gurugram. It highlights my projects in AI, machine learning, deep learning, web development, and real-world applications that I have built so far.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/shared-8867s-projects/v0-archive)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/7OBKdWwIbzR)
+##Features
 
-## Overview
+Clean and responsive UI built with Next.js
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+Projects section with detailed descriptions
 
-## Deployment
+About me, skills, and experience sections
 
-Your project is live at:
+API integration for contact and chatbot
 
-**[https://vercel.com/shared-8867s-projects/v0-archive](https://vercel.com/shared-8867s-projects/v0-archive)**
+Fast, optimized, production-ready build
 
-## Build your app
+##Tech Stack
 
-Continue building your app on:
+Frontend: Next.js, React, Tailwind CSS
+Backend: Next.js API routes / optional API integration
+Other Tools: JavaScript, Node.js, Git, Vercel deployment
 
-**[https://v0.app/chat/projects/7OBKdWwIbzR](https://v0.app/chat/projects/7OBKdWwIbzR)**
+##Highlighted Projects
 
-## How It Works
+IntelliDesk – RAG-based enterprise chatbot that connects to Google Drive/Notion for internal AI search
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+EduSync – Real-time face recognition attendance system currently used at my university
+
+Neural Collaborative Filtering Movie Recommender – Deep learning-based movie recommendation system using TensorFlow/Keras
+
+📦 Installation & Setup
+```bash
+git clone <repo-link>
+cd portfolio
+npm install
+npm run dev
+```
+
+
+Open http://localhost:3000 in your browser.
+
+##Live Demo
