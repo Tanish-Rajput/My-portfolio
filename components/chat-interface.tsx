@@ -170,7 +170,7 @@ export function ChatInterface() {
                   Tanish Raghav
                 </h1>
                 <p className="text-base md:text-lg text-foreground/70 font-medium tracking-wide">
-                  AI ML Engineer • AI Application Developer • Data Analyst
+                  AI ML Engineer • AI Application Developer
                 </p>
               </div>
 
