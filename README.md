@@ -1,8 +1,8 @@
-#Tanish Raghav – Portfolio Website
+# Tanish Raghav – Portfolio Website
 
 This is my personal portfolio website showcasing my work, skills, projects, and experience as an AI/ML and full-stack developer. The portfolio reflects my journey as a second-year B.Tech student specializing in Artificial Intelligence & Machine Learning at IILM University Gurugram. It highlights my projects in AI, machine learning, deep learning, web development, and real-world applications that I have built so far.
 
-##Features
+## Features
 
 Clean and responsive UI built with Next.js
 
@@ -14,13 +14,13 @@ API integration for contact and chatbot
 
 Fast, optimized, production-ready build
 
-##Tech Stack
+## Tech Stack
 
 Frontend: Next.js, React, Tailwind CSS
 Backend: Next.js API routes / optional API integration
 Other Tools: JavaScript, Node.js, Git, Vercel deployment
 
-##Highlighted Projects
+## Highlighted Projects
 
 IntelliDesk – RAG-based enterprise chatbot that connects to Google Drive/Notion for internal AI search
 
@@ -39,4 +39,4 @@ npm run dev
 
 Open http://localhost:3000 in your browser.
 
-##Live Demo
+## Live Demo
